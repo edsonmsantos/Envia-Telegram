@@ -2,5 +2,6 @@
     "timeout": 2,
     "api_id": "",
     "api_hash": "",
-    "message": "Teste de envio"
+    "message": "Teste de envio 1. Isso é <i>italico</i> é quebra de linha.\nE isso é <strong>negrito</strong>\nLink: https://google.com\n\nE isso imagem: https://www.google.com.br/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "myPhone": ""
 }
